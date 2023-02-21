@@ -1,5 +1,5 @@
 # qaguru_4_2
 
+Hello, QA-Guru! 
 
-
-Hello, World! 
+Эта строчка добавлена из локальной IDE. 
